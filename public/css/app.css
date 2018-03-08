@@ -1,0 +1,63 @@
+body {
+  font-family: 'Lato';
+}
+
+#raw_data_export_modal {
+  top: 2em;
+  position: absolute;
+  outline: none;
+}
+.navbar-brand {
+  padding-top: 0.5em;
+}
+.navbar-brand > img {
+  margin: 0;
+  padding: 0;
+  width: 80px;
+}
+
+#data_graph,
+#data_list {
+  padding-top: 3px;
+}
+#global_list {
+  padding-bottom: 3px;
+}
+
+#sensor-list a {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.row.small-gutter {
+  margin-left: -3px;
+  margin-right: -3px;
+}
+.row.small-gutter [class*='col-']
+{
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.modal_chart_title {
+  font-size: 20px;
+  font-weight: 900;
+  /*font-weight: bolder;*/
+}
+
+.table-fixed thead {
+  width: 98%;
+  /*tweak to be 100% minus vertical scrollbar width*/
+}
+.table-fixed tbody {
+  height: 220px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+  float: left;
+  border-bottom-width: 0;
+}

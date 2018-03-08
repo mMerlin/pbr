@@ -1,0 +1,291 @@
+[22-May-2017 22:01:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/TestController.php on line 77
+[22-May-2017 22:03:08 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/TestController.php on line 77
+[22-May-2017 22:04:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/storage/framework/views/738ec83eb0ca0f6ed3e8d84753d6790c2dd2262b.php on line 33
+[22-May-2017 22:04:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/storage/framework/views/738ec83eb0ca0f6ed3e8d84753d6790c2dd2262b.php on line 33
+[22-May-2017 22:08:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/738ec83eb0ca0f6ed3e8d84753d6790c2dd2262b.php on line 33
+[22-May-2017 22:09:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/738ec83eb0ca0f6ed3e8d84753d6790c2dd2262b.php on line 33
+[22-May-2017 22:09:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/738ec83eb0ca0f6ed3e8d84753d6790c2dd2262b.php on line 33
+[22-May-2017 22:43:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/resources/views/Test/sensor_graph.php on line 2
+[22-May-2017 23:43:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 8
+[23-May-2017 01:48:54 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/TestController.php on line 126
+[23-May-2017 05:22:20 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:25:17 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:25:31 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:27:04 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:28:48 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:29:21 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:30:53 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:31:35 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 54
+[23-May-2017 05:32:07 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 55
+[23-May-2017 05:39:38 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 56
+[23-May-2017 05:40:44 UTC] PHP Parse error:  syntax error, unexpected '$sensor' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 56
+[23-May-2017 17:17:45 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 75
+[23-May-2017 17:18:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 75
+[23-May-2017 19:13:34 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gsharpniagara/Laravel/storage/framework/views/f9941831f782d6888aeb85c1a1c2d002c97800d5.php on line 35
+[23-May-2017 19:44:45 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/gsharpniagara/Laravel/storage/framework/views/e831b952d8533bd09df000fa7b37d67a520ea0ad.php on line 17
+[24-May-2017 01:04:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/f9941831f782d6888aeb85c1a1c2d002c97800d5.php on line 74
+[24-May-2017 01:27:10 UTC] PHP Fatal error:  Call to undefined function lang() in /home/gsharpniagara/Laravel/storage/framework/views/f9941831f782d6888aeb85c1a1c2d002c97800d5.php on line 8
+[24-May-2017 01:31:30 UTC] PHP Fatal error:  Call to undefined function lang() in /home/gsharpniagara/Laravel/storage/framework/views/f9941831f782d6888aeb85c1a1c2d002c97800d5.php on line 8
+[24-May-2017 01:38:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/TestController.php on line 59
+[24-May-2017 23:27:51 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/storage/framework/views/d0ac9158137f84004e2ca9eb7ff4cce359f74712.php on line 37
+[24-May-2017 23:42:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/storage/framework/views/d0ac9158137f84004e2ca9eb7ff4cce359f74712.php on line 37
+[24-May-2017 23:43:15 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/storage/framework/views/d0ac9158137f84004e2ca9eb7ff4cce359f74712.php on line 38
+[25-May-2017 04:43:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/186a72fd969111216338a3cafd3fe64d971c3a13.php on line 29
+[25-May-2017 04:53:15 UTC] PHP Fatal error:  Class 'App\Providers\Blade' not found in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 17
+[25-May-2017 20:25:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 43
+[25-May-2017 20:28:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 44
+[25-May-2017 20:45:01 UTC] PHP Parse error:  syntax error, unexpected '$index' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 41
+[25-May-2017 20:46:53 UTC] PHP Parse error:  syntax error, unexpected '$index' (T_VARIABLE) in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 41
+[25-May-2017 20:51:08 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 60
+[25-May-2017 20:51:43 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 60
+[25-May-2017 20:53:11 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 60
+[25-May-2017 20:53:57 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 60
+[25-May-2017 21:54:46 UTC] PHP Parse error:  syntax error, unexpected ''gasflows_filename'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gsharpniagara/Laravel/resources/lang/en/export.php on line 57
+[25-May-2017 21:54:56 UTC] PHP Parse error:  syntax error, unexpected ''gasflows_filename'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gsharpniagara/Laravel/resources/lang/en/export.php on line 57
+[25-May-2017 21:55:26 UTC] PHP Parse error:  syntax error, unexpected ''gasflows_filename'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gsharpniagara/Laravel/resources/lang/en/export.php on line 57
+[01-Jun-2017 16:28:43 UTC] PHP Fatal error:  Call to undefined function Carbon() in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 96
+[01-Jun-2017 16:29:27 UTC] PHP Fatal error:  Call to undefined function Carbon() in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 96
+[01-Jun-2017 16:31:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 207
+[01-Jun-2017 17:31:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 96
+[01-Jun-2017 17:31:20 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 98
+[01-Jun-2017 17:33:13 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 98
+[01-Jun-2017 17:43:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 217
+[01-Jun-2017 17:44:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 216
+[01-Jun-2017 17:44:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 216
+[01-Jun-2017 17:45:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 216
+[01-Jun-2017 20:14:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 93
+[01-Jun-2017 20:14:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 99
+[01-Jun-2017 20:15:06 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 99
+[02-Jun-2017 00:50:42 UTC] PHP Fatal error:  Cannot use object of type App\Http\Controllers\MytemperaturesController as array in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 316
+[02-Jun-2017 01:08:54 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 286
+[02-Jun-2017 01:10:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 286
+[02-Jun-2017 01:11:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 286
+[02-Jun-2017 01:12:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 286
+[02-Jun-2017 01:12:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 286
+[02-Jun-2017 01:13:14 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: y_key' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php:279
+Stack trace:
+#0 /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php(279): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/gsharpnia...', 279, Array)
+#1 /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php(102): App\Http\Controllers\Controller->_buildXYMeasurementData('temperatures')
+#2 [internal function]: App\Http\Controllers\MytemperaturesController->graph('1')
+#3 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#4 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('graph', Array)
+#5 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routi in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 279
+[02-Jun-2017 01:13:14 UTC] PHP Fatal error:  Cannot access empty property in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 279
+[02-Jun-2017 01:43:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 289
+[02-Jun-2017 01:53:04 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: sensors' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php:283
+Stack trace:
+#0 /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php(283): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/gsharpnia...', 283, Array)
+#1 /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php(102): App\Http\Controllers\Controller->_buildXYMeasurementData('temperatures', 'temperature')
+#2 [internal function]: App\Http\Controllers\MytemperaturesController->graph('1')
+#3 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#4 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('graph', Array)
+#5 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 283
+[02-Jun-2017 01:53:04 UTC] PHP Fatal error:  Cannot access empty property in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 283
+[02-Jun-2017 03:18:46 UTC] PHP Fatal error:  Cannot use object of type App\Http\Controllers\MytemperaturesController as array in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 128
+[02-Jun-2017 03:46:08 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Routing\Route as array in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 80
+[02-Jun-2017 03:46:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Route' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 80
+[02-Jun-2017 03:47:13 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Routing\Route as array in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 80
+[02-Jun-2017 03:48:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 79
+[02-Jun-2017 04:06:38 UTC] PHP Fatal error:  Cannot access private property Symfony\Component\Routing\CompiledRoute::$staticPrefix in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 87
+[02-Jun-2017 04:08:25 UTC] PHP Fatal error:  Cannot use object of type Symfony\Component\Routing\CompiledRoute as array in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 90
+[02-Jun-2017 04:09:17 UTC] PHP Fatal error:  Cannot access private property Symfony\Component\Routing\CompiledRoute::$staticPrefix in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 90
+[02-Jun-2017 04:09:50 UTC] PHP Fatal error:  Call to undefined method Symfony\Component\Routing\CompiledRoute::staticPrefix() in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 91
+[02-Jun-2017 04:14:47 UTC] PHP Fatal error:  Call to undefined method Illuminate\Routing\Route::getController() in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 95
+[02-Jun-2017 04:15:53 UTC] PHP Fatal error:  Call to undefined method Illuminate\Routing\Route::getController() in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 95
+[02-Jun-2017 04:18:42 UTC] PHP Fatal error:  Call to undefined method Illuminate\Routing\Route::getActionMethod() in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 97
+[02-Jun-2017 04:23:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 146
+[02-Jun-2017 04:24:44 UTC] PHP Fatal error:  Call to a member function split() on a non-object in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 148
+[02-Jun-2017 04:27:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/MytemperaturesController.php on line 154
+[02-Jun-2017 16:24:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 166
+[02-Jun-2017 16:24:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 169
+[02-Jun-2017 17:05:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 112
+[02-Jun-2017 17:06:21 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 112
+[02-Jun-2017 17:07:06 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 112
+[02-Jun-2017 17:07:52 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/gsharpniagara/Laravel/storage/framework/views/640efef4e86bef36187a2d83f551ecb2bc2a4a76.php on line 112
+[03-Jun-2017 05:18:14 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 243
+[03-Jun-2017 05:20:11 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 266
+[03-Jun-2017 05:21:28 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 246
+[03-Jun-2017 05:22:56 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 269
+[03-Jun-2017 05:33:36 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 252
+[03-Jun-2017 05:38:13 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 248
+[03-Jun-2017 05:38:50 UTC] PHP Fatal error:  Undefined class constant 'Temperature' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 248
+[03-Jun-2017 05:39:48 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 253
+[03-Jun-2017 05:40:44 UTC] PHP Fatal error:  Class 'app/Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 254
+[03-Jun-2017 05:41:04 UTC] PHP Fatal error:  Class '//app/Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 254
+[03-Jun-2017 05:41:18 UTC] PHP Fatal error:  Class '/app/Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 254
+[04-Jun-2017 04:54:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 121
+[04-Jun-2017 05:18:41 UTC] PHP Fatal error:  Class 'App\Gasflows' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 259
+[04-Jun-2017 05:39:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/819965dc7308e3f3c2d1a03321cc0384ea550773.php on line 71
+[05-Jun-2017 21:14:32 UTC] PHP Parse error:  syntax error, unexpected 'collect_common' (T_STRING), expecting variable (T_VARIABLE) in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 264
+[05-Jun-2017 21:15:14 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\collect_common() in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 230
+[05-Jun-2017 21:15:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 230
+[05-Jun-2017 21:30:10 UTC] PHP Parse error:  syntax error, unexpected ''route_base'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 285
+[05-Jun-2017 23:32:38 UTC] PHP Fatal error:  Class 'App\Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 212
+[08-Jun-2017 16:49:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 225
+[08-Jun-2017 16:50:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 225
+[08-Jun-2017 16:50:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 225
+[08-Jun-2017 16:51:36 UTC] PHP Parse error:  syntax error, unexpected '$gas_prod_accum' (T_VARIABLE) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 230
+[08-Jun-2017 19:23:32 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting '&' or variable (T_VARIABLE) in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 160
+[08-Jun-2017 19:23:52 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting '&' or variable (T_VARIABLE) in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 160
+[08-Jun-2017 19:25:03 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting '&' or variable (T_VARIABLE) in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 160
+[08-Jun-2017 19:25:04 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting '&' or variable (T_VARIABLE) in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 160
+[08-Jun-2017 19:44:55 UTC] PHP Fatal error:  Call to protected method Illuminate\Routing\Route::extractOptionalParameters() from context 'Illuminate\Routing\RouteCollection' in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 161
+[08-Jun-2017 19:47:30 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Routing\Route as array in /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 162
+[12-Jun-2017 04:48:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 328
+[12-Jun-2017 04:49:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 328
+[12-Jun-2017 04:55:28 UTC] PHP Fatal error:  Cannot use object of type App\Http\Controllers\MybioController as array in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 333
+[12-Jun-2017 05:01:30 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: model_prefix' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php:360
+Stack trace:
+#0 /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php(360): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/gsharpnia...', 360, Array)
+#1 /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php(131): App\Http\Controllers\Controller->getSensorData('temperatures', '00002', '24')
+#2 [internal function]: App\Http\Controllers\MybioController->graph('24')
+#3 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#4 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('graph', Array)
+#5 /home/gsharpniagara/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\Co in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 360
+[12-Jun-2017 05:01:30 UTC] PHP Fatal error:  Cannot access empty property in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 360
+[12-Jun-2017 05:03:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 335
+[12-Jun-2017 05:03:26 UTC] PHP Fatal error:  Class 'Temperature' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 335
+[12-Jun-2017 05:42:55 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 308
+[12-Jun-2017 06:32:26 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting variable (T_VARIABLE) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:33:05 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:33:51 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:33:55 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:35:02 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:35:04 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:35:05 UTC] PHP Parse error:  syntax error, unexpected 'constant' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 06:35:37 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 50
+[12-Jun-2017 18:25:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 205
+[12-Jun-2017 19:30:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 4
+[13-Jun-2017 21:44:58 UTC] PHP Fatal error:  Arrays are not allowed in class constants in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 61
+[13-Jun-2017 21:45:02 UTC] PHP Fatal error:  Arrays are not allowed in class constants in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 61
+[13-Jun-2017 21:45:04 UTC] PHP Fatal error:  Arrays are not allowed in class constants in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 61
+[13-Jun-2017 21:45:05 UTC] PHP Fatal error:  Arrays are not allowed in class constants in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 61
+[13-Jun-2017 21:48:06 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 251
+[13-Jun-2017 23:04:10 UTC] PHP Parse error:  syntax error, unexpected 'pt' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gsharpniagara/Laravel/storage/framework/views/33fbd447dd81f223234c221b1c54b2083cb7ba34.php on line 74
+[13-Jun-2017 23:12:55 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gsharpniagara/Laravel/storage/framework/views/33fbd447dd81f223234c221b1c54b2083cb7ba34.php on line 85
+[14-Jun-2017 03:43:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/storage/framework/views/7847c535c838dd0792f2e89debb99e18657a4be6.php on line 9
+[14-Jun-2017 03:45:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/storage/framework/views/7847c535c838dd0792f2e89debb99e18657a4be6.php on line 9
+[14-Jun-2017 03:48:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/storage/framework/views/430697fcc4f685e7ee0886b14eda55c064eb3a19.php on line 9
+[14-Jun-2017 13:46:22 UTC] PHP Fatal error:  Cannot call constructor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 184
+[14-Jun-2017 15:48:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 217
+[14-Jun-2017 16:25:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/cc229b36cf461a2cf1981b9ee4dc25b4b1839937.php on line 347
+[14-Jun-2017 16:31:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsharpniagara/Laravel/storage/framework/views/cc229b36cf461a2cf1981b9ee4dc25b4b1839937.php on line 347
+[14-Jun-2017 19:55:04 UTC] PHP Warning:  Unterminated comment starting line 992 in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 992
+[14-Jun-2017 19:55:04 UTC] PHP Parse error:  syntax error, unexpected 'parameter' (T_STRING), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 994
+[15-Jun-2017 16:56:11 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 248
+[15-Jun-2017 17:42:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 227
+[15-Jun-2017 18:00:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:00:03 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:00:05 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:00:11 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:03 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:04 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:05 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:07 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:08 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:05:09 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:06:56 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 70
+[15-Jun-2017 18:07:46 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:08:01 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:03 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:06 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:07 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:09 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:11 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:13 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:10:14 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 71
+[15-Jun-2017 18:14:10 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:14:51 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:03 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:04 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:06 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:07 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:08 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:09 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:11 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:12 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:14 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:15 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:16 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:15:18 UTC] PHP Fatal error:  Access to undeclared static property: App\Http\Controllers\Controller::$sensor in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 141
+[15-Jun-2017 18:48:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 250
+[15-Jun-2017 18:57:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 251
+[15-Jun-2017 19:29:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DateTime' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 271
+[15-Jun-2017 20:49:39 UTC] PHP Parse error:  syntax error, unexpected 'Carbon' (T_STRING), expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 278
+[15-Jun-2017 21:16:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:16:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:17:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:17:52 UTC] PHP Fatal error:  Call to undefined function moment() in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:18:00 UTC] PHP Fatal error:  Call to undefined function moment() in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:19:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 21:20:28 UTC] PHP Fatal error:  Class 'Date' not found in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 72
+[15-Jun-2017 22:22:44 UTC] PHP Parse error:  syntax error, unexpected 'Carbon' (T_STRING), expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 282
+[15-Jun-2017 23:18:55 UTC] PHP Fatal error:  Call to a member function setTimeZone() on a non-object in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 278
+[15-Jun-2017 23:19:46 UTC] PHP Fatal error:  Undefined class constant 'version' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 282
+[15-Jun-2017 23:20:17 UTC] PHP Fatal error:  Call to undefined method Carbon\Carbon::version() in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 282
+[16-Jun-2017 00:25:23 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 326
+[16-Jun-2017 00:26:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 326
+[16-Jun-2017 01:03:23 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/gsharpniagara/Laravel/resources/lang/en/export.php on line 25
+[16-Jun-2017 16:54:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 45
+[16-Jun-2017 17:08:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 45
+[16-Jun-2017 22:30:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 46
+[17-Jun-2017 00:36:28 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING), expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 51
+[17-Jun-2017 01:03:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 53
+[17-Jun-2017 01:19:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 47
+[17-Jun-2017 01:20:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 61
+[17-Jun-2017 01:31:08 UTC] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 71
+[17-Jun-2017 01:39:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 41
+[17-Jun-2017 02:09:57 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\ValidatesRequests' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/MybioController.php on line 19
+[17-Jun-2017 03:50:03 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:50:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:50:06 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:02 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:05 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:06 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:08 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:55:09 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:56:36 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 03:57:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 26
+[17-Jun-2017 04:29:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gsharpniagara/Laravel/app/Http/Controllers/ExportController.php on line 47
+[17-Jun-2017 04:34:54 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 25
+[17-Jun-2017 04:35:02 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 25
+[17-Jun-2017 04:35:03 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 25
+[17-Jun-2017 04:35:05 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 25
+[18-Jun-2017 00:59:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 44
+[18-Jun-2017 01:00:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 44
+[18-Jun-2017 01:00:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 44
+[18-Jun-2017 01:00:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 44
+[18-Jun-2017 01:24:23 UTC] PHP Fatal error:  Cannot access protected property Illuminate\Validation\Validator::$data in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 36
+[18-Jun-2017 01:30:39 UTC] PHP Parse error:  syntax error, unexpected 'not' (T_STRING) in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 36
+[18-Jun-2017 01:30:58 UTC] PHP Fatal error:  Cannot access protected property Illuminate\Validation\Validator::$data in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 36
+[18-Jun-2017 02:39:19 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/gsharpniagara/Laravel/app/Providers/AppServiceProvider.php on line 41
+[18-Jun-2017 03:23:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gsharpniagara/Laravel/app/Http/Controllers/GlobalController.php on line 119
+[18-Jun-2017 03:51:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 315
+[19-Jun-2017 15:00:26 UTC] PHP Parse error:  syntax error, unexpected '$max_date' (T_VARIABLE), expecting ')' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 306
+[19-Jun-2017 15:20:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/gsharpniagara/Laravel/storage/framework/views/77c746c1cc7c97c38f95fb38770ff2821aa71516.php on line 351
+[19-Jun-2017 17:59:44 UTC] PHP Fatal error:  Undefined class constant 'datetime' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 76
+[19-Jun-2017 18:00:08 UTC] PHP Fatal error:  Undefined class constant 'datetime' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 75
+[19-Jun-2017 18:00:18 UTC] PHP Fatal error:  Undefined class constant 'datetime' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 75
+[19-Jun-2017 20:59:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 545
+[20-Jun-2017 00:05:52 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\first() in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 263
+[20-Jun-2017 00:13:40 UTC] PHP Parse error:  syntax error, unexpected 'd_time' (T_STRING) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 269
+[20-Jun-2017 00:15:52 UTC] PHP Parse error:  syntax error, unexpected '$hr_time' (T_VARIABLE) in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 242
+[22-Jun-2017 16:57:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 10
+[22-Jun-2017 16:58:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 10
+[22-Jun-2017 16:59:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 10
+[22-Jun-2017 17:00:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 10
+[22-Jun-2017 17:01:51 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 13
+[22-Jun-2017 17:03:57 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 13
+[22-Jun-2017 18:49:24 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 16
+[22-Jun-2017 18:49:50 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 34
+[22-Jun-2017 18:55:56 UTC] PHP Fatal error:  Call to undefined function clearForBlock() in /home/gsharpniagara/Laravel/storage/framework/views/3b2233d3bfee6a709b24024712d3978af1a5fb76.php on line 29
+[22-Jun-2017 19:01:29 UTC] PHP Fatal error:  Class 'App\Humidity' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 325
+[26-Jun-2017 03:54:17 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/gsharpniagara/Laravel/storage/framework/views/d96b8601300ae6cc4ccf85acda313fc93ac584ae.php on line 284
+[27-Jun-2017 00:29:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gsharpniagara/Laravel/app/Http/Controllers/GlobalController.php on line 119
+[28-Jun-2017 17:27:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/gsharpniagara/Laravel/app/Http/Controllers/Controller.php on line 225
+[28-Jun-2017 17:53:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gsharpniagara/Laravel/app/Http/Controllers/GlobalController.php on line 68
+[28-Jun-2017 19:13:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/gsharpniagara/Laravel/app/Http/Controllers/GlobalController.php on line 119
+[18-Jul-2017 03:33:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/gsharpniagara/Laravel/storage/framework/views/d0ac9158137f84004e2ca9eb7ff4cce359f74712.php on line 80
